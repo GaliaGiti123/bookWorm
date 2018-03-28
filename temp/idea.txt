@@ -1,0 +1,3 @@
+./ => "ohey computer! ami jei folder ey asi, shei folderer vetor "
+	../ => "ohey computer! ami jei folderey asi, tar parent folderer vitor "
+	
