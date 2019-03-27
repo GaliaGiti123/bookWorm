@@ -6,6 +6,7 @@
 body{
 	
 	background: url("../resources/img.jpg");
+	background-size: auto;
 	background-size: cover;
 	width 10%;
 
